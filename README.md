@@ -2,6 +2,7 @@
 
 **Project Title:
 EMIPredict AI – Intelligent Financial Risk Assessment Platform**
+
 **Introduction:**
 
 In today’s world, millions of people struggle with EMIs due to poor financial planning and lack of risk awareness.
